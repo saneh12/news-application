@@ -7,7 +7,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Here’s a sample `README.md` file for your React Vite-based news application:
 
 ```markdown
 # News Application
@@ -86,6 +85,11 @@ Once the app is running, you can:
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. If you have any issues or improvements, open an issue and I’ll be happy to review it.
+
+## Website 
+![image](https://github.com/user-attachments/assets/e23d3bf7-8db6-4201-ab97-f7031fa36756)
+![image](https://github.com/user-attachments/assets/591e2972-058f-40b0-b8b4-ae41991c7774)
+
 
 ## License
 
