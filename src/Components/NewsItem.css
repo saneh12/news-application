@@ -1,0 +1,45 @@
+.card {
+    max-width: 100%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    
+    border-radius: 10px;
+    transition:  transform 0.3s ease, box-shadow 0.3s ease;;
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
+    z-index: 10;
+    }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 200px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  p{
+    font: italic 1.2rem "Fira Sans", serif;
+  }
+  h5{
+    font: bold 1.2rem "Fira Sans", sans-serif;
+  }
+  
+  /* Button styles */
+  .btn-primary {
+    border: none;
+    transition: background-color 0.3s ease,transform 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
+    z-index: 10;
+  }
+
+  

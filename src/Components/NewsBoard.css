@@ -1,0 +1,14 @@
+.news-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 1200px;
+  }
+
+  h2{
+    text-align: center;
+    font: italic small-caps bold 30px cursive;
+  }
+  
